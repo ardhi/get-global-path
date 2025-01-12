@@ -1,0 +1,27 @@
+{
+  "name": "get-global-path",
+  "version": "0.0.1",
+  "description": "Returns path to globally installed package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/get-global-path.git"
+  },
+  "keywords": [
+    "global",
+    "node_modules",
+    "path"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/get-global-path/issues"
+  },
+  "homepage": "https://github.com/ardhi/get-global-path#readme",
+  "dependencies": {
+  }
+}
